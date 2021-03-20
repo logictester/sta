@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'STA'
+project = 'SafeNet Trusted Access'
 copyright = '2021, Alex Basin'
 author = 'Alex Basin'
 
