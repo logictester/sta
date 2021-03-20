@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+===============================================
 Welcome to SafeNet Trusted Access documentation
 ===============================================
 
@@ -11,10 +12,4 @@ Welcome to SafeNet Trusted Access documentation
    :caption: Contents:
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+`SafeNet Trusted Access FreeRADIUS Agent <https://swjm-freeradius.readthedocs-hosted.com/_/sharing/xgmfgrfzb9ugo5f1ds1pbst1>`_
