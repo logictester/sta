@@ -9,7 +9,7 @@ SafeNet Trusted Access documentation
 
 .. toctree::
    :hidden:
-   :maxdepth: 3
+   :maxdepth: 2
    
    
    Thales SME Documentation Home <https://safenet.readthedocs.io/en/latest/>
