@@ -12,9 +12,7 @@ SafeNet Trusted Access documentation
    :maxdepth: 3
    
    
-   =============================================================================
-   `Thales SME Documentation Home <https://safenet.readthedocs.io/en/latest/>`__
-   =============================================================================
+    index
 
 
 
@@ -26,3 +24,5 @@ Agents
 
 
 
+`Thales SME Documentation Home <https://safenet.readthedocs.io/en/latest/>`__
+=============================================================================
