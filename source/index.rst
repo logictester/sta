@@ -24,5 +24,6 @@ Agents
 
 
 
+.. rst-class:: horizbuttons-tip-xxxl
 
-`Thales SME Documentation Home <https://safenet.readthedocs.io/en/latest/>`_
+    `Thales SME Documentation Home <https://safenet.readthedocs.io/en/latest/>`__
