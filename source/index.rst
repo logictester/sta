@@ -13,7 +13,7 @@ SafeNet Trusted Access documentation
    
    
    Home <https://safenet.readthedocs.io/en/latest/>
-   *
+   index
 
 
 Agents:
