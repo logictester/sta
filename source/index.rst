@@ -9,7 +9,7 @@ SafeNet Trusted Access documentation
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+
 
 
 Agents
