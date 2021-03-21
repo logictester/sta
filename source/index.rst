@@ -13,6 +13,7 @@ SafeNet Trusted Access documentation
    
    
    index
+   Thales SME Documentation Home <https://safenet.readthedocs.io/en/latest/>
 
 
 
@@ -23,6 +24,4 @@ Agents
 **********************************************************************************************************************************
 
 
-=============================================================================
-`Thales SME Documentation Home <https://safenet.readthedocs.io/en/latest/>`__
-=============================================================================
+
