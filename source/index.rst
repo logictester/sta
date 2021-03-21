@@ -8,7 +8,6 @@ SafeNet Trusted Access documentation
 ====================================
 
 .. toctree::
-   :hidden:
    :maxdepth: 2
    
    
