@@ -25,4 +25,4 @@ Agents
 
 
 
-:ref:`SafeNet Trusted Access Documentation Home <https://safenet.readthedocs.io/projects/STA/en/latest/>`
+`SafeNet Trusted Access Documentation Home <https://safenet.readthedocs.io/projects/STA/en/latest/>`_
