@@ -12,7 +12,7 @@ SafeNet Trusted Access documentation
    :maxdepth: 3
    
    
-    index
+   index
 
 
 
