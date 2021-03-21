@@ -25,4 +25,4 @@ Agents
 
 
 
-`SafeNet Trusted Access Documentation Home <https://safenet.readthedocs.io/projects/STA/en/latest/>`_
+`Thales SME Documentation Home <https://safenet.readthedocs.io/en/latest/>`_
