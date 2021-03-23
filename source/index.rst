@@ -22,17 +22,17 @@ Agents:
 `FreeRADIUS Agent for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/fr/en/latest/>`_
 ******************************************************************************************************
 
-`Windows Logon Agent (WLA) <https://safenet.readthedocs.io/projects/wla/en/latest/>`_
-*************************************************************************************
+`Windows Logon Agent (WLA) for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/wla/en/latest/>`_
+****************************************************************************************************************
 
 
 
 
-Office 365 and Azure Active Directory
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Office 365 and Azure Active Directory:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`Office 365 <https://safenet.readthedocs.io/projects/o365/en/latest/>`_
-***********************************************************************
+`Office 365 federation with SafeNet Trusted Access <https://safenet.readthedocs.io/projects/o365/en/latest/>`_
+**************************************************************************************************************
 
 `Azure Conditional Authentication Factors (Custom Controls) with SafeNet Trusted Access <https://safenet.readthedocs.io/projects/caf/en/latest/>`_
-*********************************************************************************************************************************************
+**************************************************************************************************************************************************
