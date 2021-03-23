@@ -24,3 +24,12 @@ Agents:
 
 Windows Logon Agent (WLA)
 *************************
+
+
+
+
+Office 365 and Azure Active Directory
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Azure Custom Authentication Factors (Custom Controls) with SafeNet Trusted Access <https://safenet.readthedocs.io/projects/caf/en/latest/>`_
+*********************************************************************************************************************************************
