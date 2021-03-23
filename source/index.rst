@@ -19,17 +19,20 @@ SafeNet Trusted Access documentation
 Agents:
 ^^^^^^^
 
-`FreeRADIUS Agent for SafeNet Trusted Access <https://swjm-freeradius.readthedocs-hosted.com/_/sharing/xgmfgrfzb9ugo5f1ds1pbst1>`_
-**********************************************************************************************************************************
+`FreeRADIUS Agent for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/fr/en/latest/>`_
+******************************************************************************************************
 
-Windows Logon Agent (WLA)
-*************************
+`Windows Logon Agent (WLA) <https://safenet.readthedocs.io/projects/wla/en/latest/>`_
+*************************************************************************************
 
 
 
 
 Office 365 and Azure Active Directory
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Office 365 <https://safenet.readthedocs.io/projects/o365/en/latest/>`_
+***********************************************************************
 
 `Azure Custom Authentication Factors (Custom Controls) with SafeNet Trusted Access <https://safenet.readthedocs.io/projects/caf/en/latest/>`_
 *********************************************************************************************************************************************
