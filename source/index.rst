@@ -34,5 +34,5 @@ Office 365 and Azure Active Directory
 `Office 365 <https://safenet.readthedocs.io/projects/o365/en/latest/>`_
 ***********************************************************************
 
-`Azure Custom Authentication Factors (Custom Controls) with SafeNet Trusted Access <https://safenet.readthedocs.io/projects/caf/en/latest/>`_
+`Azure Conditional Authentication Factors (Custom Controls) with SafeNet Trusted Access <https://safenet.readthedocs.io/projects/caf/en/latest/>`_
 *********************************************************************************************************************************************
