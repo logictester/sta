@@ -58,3 +58,4 @@ html_logo = '_static/thales_logo.png'
 html_theme_options = {
     "logo_only": False
 }
+html_favicon = 'favicon.ico'
