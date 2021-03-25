@@ -10,8 +10,8 @@ SafeNet Trusted Access documentation
 .. toctree::
    :hidden:
    :maxdepth: 2
-   
-   
+
+
    Home <https://safenet.readthedocs.io/en/latest/>
    index
 
@@ -36,3 +36,9 @@ Office 365 and Azure Active Directory:
 
 `Azure Conditional Authentication Factors (Custom Controls) with SafeNet Trusted Access <https://safenet.readthedocs.io/projects/caf/en/latest/>`_
 **************************************************************************************************************************************************
+
+
+Remote Desktop Services:
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Protecting Enterprise Remote Desktop Services with SafeNet Trusted Access <https://safenet.readthedocs.io/projects/rdg/en/latest/#>`_
