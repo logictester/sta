@@ -25,7 +25,7 @@ Agents:
         :type: url
         :text: FreeRADIUS Agent for SafeNet Trusted Access
         :tooltip:
-        :classes: btn-outline-primary btn-block
+        :classes: btn-link stretched-link font-weight-bold
 
     ---
 
