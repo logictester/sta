@@ -23,11 +23,13 @@ SafeNet Trusted Access documentation
     Agents:
     ^^^^^^^
 
-    `FreeRADIUS Agent for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/fr/en/latest/>`_
-    ******************************************************************************************************
+  .. link-button::
 
-    `Windows Logon Agent (WLA) for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/wla/en/latest/>`_
-    ****************************************************************************************************************
+      `FreeRADIUS Agent for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/fr/en/latest/>`_
+      ******************************************************************************************************
+
+      `Windows Logon Agent (WLA) for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/wla/en/latest/>`_
+      ****************************************************************************************************************
 
 
 
