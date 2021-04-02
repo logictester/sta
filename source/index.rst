@@ -19,17 +19,14 @@ Agents:
 ^^^^^^^
 
 .. panels::
-    :container: container pb-4
-    :column: ol-lg-12 p-2
-    :card: shadow
 
     .. link-button:: https://safenet.readthedocs.io/projects/fr/en/latest/
         :type: url
         :text: FreeRADIUS Agent for SafeNet Trusted Access
         :tooltip:
 
-      `Windows Logon Agent (WLA) for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/wla/en/latest/>`_
-      ****************************************************************************************************************
+`Windows Logon Agent (WLA) for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/wla/en/latest/>`_
+****************************************************************************************************************
 
 
 
