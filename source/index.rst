@@ -27,13 +27,13 @@ Agents:
         :tooltip:
         :classes: btn-link stretched-link font-weight-bold
 
-    ---
 
-    .. link-button:: https://safenet.readthedocs.io/projects/wla/en/latest/
-        :type: url
-        :text: Windows Logon Agent (WLA) for SafeNet Trusted Access
-        :tooltip:
-        :classes: btn-outline-primary btn-block
+
+.. link-button:: https://safenet.readthedocs.io/projects/wla/en/latest/
+    :type: url
+    :text: Windows Logon Agent (WLA) for SafeNet Trusted Access
+    :tooltip:
+    :classes: btn-outline-primary btn-block
 
 
 
