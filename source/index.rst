@@ -15,15 +15,19 @@ SafeNet Trusted Access documentation
    Home <https://safenet.readthedocs.io/en/latest/>
    index
 
+.. panels::
+    :container: container pb-4
+    :column: ol-lg-12 p-2
+    :card: shadow
 
-Agents:
-^^^^^^^
+    Agents:
+    ^^^^^^^
 
-`FreeRADIUS Agent for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/fr/en/latest/>`_
-******************************************************************************************************
+    `FreeRADIUS Agent for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/fr/en/latest/>`_
+    ******************************************************************************************************
 
-`Windows Logon Agent (WLA) for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/wla/en/latest/>`_
-****************************************************************************************************************
+    `Windows Logon Agent (WLA) for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/wla/en/latest/>`_
+    ****************************************************************************************************************
 
 
 
