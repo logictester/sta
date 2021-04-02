@@ -43,15 +43,33 @@ Agents:
 Office 365 and Azure Active Directory:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`Office 365 federation with SafeNet Trusted Access <https://safenet.readthedocs.io/projects/o365/en/latest/>`_
-**************************************************************************************************************
+.. panels::
 
-`Azure Conditional Authentication Factors (Custom Controls) with SafeNet Trusted Access <https://safenet.readthedocs.io/projects/caf/en/latest/>`_
-**************************************************************************************************************************************************
+
+    .. link-button:: https://safenet.readthedocs.io/projects/o365/en/latest/
+        :type: url
+        :text: Office 365 federation with SafeNet Trusted Access
+        :tooltip:
+        :classes: btn-outline-primary btn-block
+
+    ---
+
+    .. link-button:: https://safenet.readthedocs.io/projects/caf/en/latest/
+        :type: url
+        :text: Azure Conditional Authentication Factors (Custom Controls) with SafeNet Trusted Access
+        :tooltip:
+        :classes: btn-outline-primary btn-block
+
 
 
 Remote Desktop Services:
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-`Protecting Enterprise Remote Desktop Services with SafeNet Trusted Access <https://safenet.readthedocs.io/projects/rdg/en/latest/#>`_
-**************************************************************************************************************************************
+.. panels::
+
+
+    .. link-button:: https://safenet.readthedocs.io/projects/rdg/en/latest/
+        :type: url
+        :text: Protecting Enterprise Remote Desktop Services with SafeNet Trusted Access
+        :tooltip:
+        :classes: btn-outline-primary btn-block
