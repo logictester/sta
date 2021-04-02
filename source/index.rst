@@ -50,7 +50,7 @@ Office 365 and Azure Active Directory:
         :type: url
         :text: Office 365 federation with SafeNet Trusted Access
         :tooltip:
-        :classes: btn-outline-primary btn-block
+        :classes: btn-primary btn-block
 
     ---
 
