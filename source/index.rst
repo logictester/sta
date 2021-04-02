@@ -52,13 +52,13 @@ Office 365 and Azure Active Directory:
         :tooltip:
         :classes: btn-primary btn-block
 
-    ---
 
-    .. link-button:: https://safenet.readthedocs.io/projects/caf/en/latest/
-        :type: url
-        :text: Azure Conditional Authentication Factors (Custom Controls) with SafeNet Trusted Access
-        :tooltip:
-        :classes: btn-outline-primary btn-block
+
+.. link-button:: https://safenet.readthedocs.io/projects/caf/en/latest/
+    :type: url
+    :text: Azure Conditional Authentication Factors (Custom Controls) with SafeNet Trusted Access
+    :tooltip:
+    :classes: btn-primary btn-block
 
 
 
