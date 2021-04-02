@@ -15,13 +15,13 @@ SafeNet Trusted Access documentation
    Home <https://safenet.readthedocs.io/en/latest/>
    index
 
+Agents:
+^^^^^^^
+
 .. panels::
     :container: container pb-4
     :column: ol-lg-12 p-2
     :card: shadow
-
-    Agents:
-    ^^^^^^^
 
     .. link-button:: https://safenet.readthedocs.io/projects/fr/en/latest/
         :type: url
