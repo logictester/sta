@@ -15,13 +15,11 @@ SafeNet Trusted Access documentation
    Home <https://safenet.readthedocs.io/en/latest/>
    index
 
+Agents:
+^^^^^^^
 
 .. panels::
 
-    Agents:
-    ^^^^^^^
-
-    +++
 
     .. link-button:: https://safenet.readthedocs.io/projects/fr/en/latest/
         :type: url
@@ -29,8 +27,15 @@ SafeNet Trusted Access documentation
         :tooltip:
         :classes: btn-outline-primary btn-block
 
-`Windows Logon Agent (WLA) for SafeNet Trusted Access <https://safenet.readthedocs.io/projects/wla/en/latest/>`_
-****************************************************************************************************************
+    ---
+
+    .. link-button:: https://safenet.readthedocs.io/projects/wla/en/latest/
+        :type: url
+        :text: Windows Logon Agent (WLA) for SafeNet Trusted Access
+        :tooltip:
+        :classes: btn-outline-primary btn-block
+
+
 
 
 
