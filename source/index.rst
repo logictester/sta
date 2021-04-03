@@ -62,6 +62,7 @@ Office 365 and Azure Active Directory:
 .. dropdown:: Protecting Remote Desktop Services
   :container: + shadow
   :title: bg-primary text-white text-center font-weight-bold
+  :animate: fade-in
 
 
   .. panels::
