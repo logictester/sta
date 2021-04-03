@@ -20,7 +20,6 @@ Agents:
 
 .. panels::
 
-
     .. link-button:: https://safenet.readthedocs.io/projects/fr/en/latest/
         :type: url
         :text: FreeRADIUS Agent for SafeNet Trusted Access
@@ -28,12 +27,13 @@ Agents:
         :classes: btn-link stretched-link font-weight-bold
 
 
+.. panels::
 
-.. link-button:: https://safenet.readthedocs.io/projects/wla/en/latest/
-    :type: url
-    :text: Windows Logon Agent (WLA) for SafeNet Trusted Access
-    :tooltip:
-    :classes: btn-outline-primary btn-block
+    .. link-button:: https://safenet.readthedocs.io/projects/wla/en/latest/
+        :type: url
+        :text: Windows Logon Agent (WLA) for SafeNet Trusted Access
+        :tooltip:
+        :classes: btn-outline-primary btn-block
 
 
 
