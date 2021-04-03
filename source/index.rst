@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ====================================
-SafeNet Trusted Access documentation
+SafeNet Trusted Access Documentation
 ====================================
 
 .. toctree::
