@@ -19,6 +19,7 @@ Agents:
 ^^^^^^^
 
 .. panels::
+  :column: col-lg-12 p-2
 
     .. link-button:: https://safenet.readthedocs.io/projects/fr/en/latest/
         :type: url
@@ -33,7 +34,7 @@ Agents:
         :type: url
         :text: Windows Logon Agent (WLA) for SafeNet Trusted Access
         :tooltip:
-        :classes: btn-outline-primary btn-block
+        :classes: btn-link stretched-link font-weight-bold
 
 
 
