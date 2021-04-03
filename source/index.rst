@@ -19,7 +19,6 @@ Agents:
 ^^^^^^^
 
 .. panels::
-  :column: col-lg-12 p-2 text-center
 
     .. link-button:: https://safenet.readthedocs.io/projects/fr/en/latest/
         :type: url
@@ -27,8 +26,7 @@ Agents:
         :tooltip:
         :classes: btn-link stretched-link font-weight-bold
 
-
-.. panels::
+    ---
 
     .. link-button:: https://safenet.readthedocs.io/projects/wla/en/latest/
         :type: url
