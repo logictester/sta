@@ -59,14 +59,14 @@ Office 365 and Azure Active Directory:
 
 
 
-Remote Desktop Services:
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. panels::
+.. dropdown:: Remote Desktop Services:
 
 
-    .. link-button:: https://safenet.readthedocs.io/projects/rdg/en/latest/
-        :type: url
-        :text: Protecting Enterprise Remote Desktop Services with SafeNet Trusted Access
-        :tooltip:
-        :classes: btn-link stretched-link font-weight-bold
+  .. panels::
+
+
+      .. link-button:: https://safenet.readthedocs.io/projects/rdg/en/latest/
+          :type: url
+          :text: Protecting Enterprise Remote Desktop Services with SafeNet Trusted Access
+          :tooltip:
+          :classes: btn-link stretched-link font-weight-bold
