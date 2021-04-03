@@ -15,47 +15,48 @@ SafeNet Trusted Access Documentation
    Home <https://safenet.readthedocs.io/en/latest/>
    index
 
-Agents:
-^^^^^^^
+.. dropdown:: SafeNet Trusted Access Agents
+  :container: + shadow
+  :title: text-center font-weight-bold
+  :animate: fade-in
 
-.. panels::
+  .. panels::
 
-    .. link-button:: https://safenet.readthedocs.io/projects/fr/en/latest/
-        :type: url
-        :text: FreeRADIUS Agent for SafeNet Trusted Access
-        :tooltip:
-        :classes: btn-link stretched-link font-weight-bold
+     .. link-button:: https://safenet.readthedocs.io/projects/fr/en/latest/
+         :type: url
+         :text: FreeRADIUS Agent for SafeNet Trusted Access
+         :tooltip:
+         :classes: btn-link stretched-link font-weight-bold
 
     ---
 
-    .. link-button:: https://safenet.readthedocs.io/projects/wla/en/latest/
+     .. link-button:: https://safenet.readthedocs.io/projects/wla/en/latest/
+         :type: url
+         :text: Windows Logon Agent (WLA) for SafeNet Trusted Access
+         :tooltip:
+         :classes: btn-link stretched-link font-weight-bold
+
+
+.. dropdown:: Microsft Office 365 and Azure Active Directory
+  :container: + shadow
+  :title: text-center font-weight-bold
+  :animate: fade-in
+
+  .. panels::
+
+     .. link-button:: https://safenet.readthedocs.io/projects/o365/en/latest/
+         :type: url
+         :text: Office 365 federation with SafeNet Trusted Access
+         :tooltip:
+         :classes: btn-link stretched-link font-weight-bold
+
+    ---
+
+     .. link-button:: https://safenet.readthedocs.io/projects/caf/en/latest/
         :type: url
-        :text: Windows Logon Agent (WLA) for SafeNet Trusted Access
+        :text: Azure Conditional Authentication Factors (Custom Controls) with SafeNet Trusted Access
         :tooltip:
         :classes: btn-link stretched-link font-weight-bold
-
-
-
-
-
-
-Office 365 and Azure Active Directory:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-.. link-button:: https://safenet.readthedocs.io/projects/o365/en/latest/
-        :type: url
-        :text: Office 365 federation with SafeNet Trusted Access
-        :tooltip:
-        :classes: btn-primary btn-block
-
-
-
-.. link-button:: https://safenet.readthedocs.io/projects/caf/en/latest/
-    :type: url
-    :text: Azure Conditional Authentication Factors (Custom Controls) with SafeNet Trusted Access
-    :tooltip:
-    :classes: btn-primary btn-block
 
 
 
