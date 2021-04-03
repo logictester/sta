@@ -20,6 +20,7 @@ Agents:
 
 .. panels::
   :column: col-lg-12 p-2
+  :header: text-center
 
     .. link-button:: https://safenet.readthedocs.io/projects/fr/en/latest/
         :type: url
