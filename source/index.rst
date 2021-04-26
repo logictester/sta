@@ -70,7 +70,15 @@ SafeNet Trusted Access Documentation
 
       .. link-button:: https://safenet.readthedocs.io/projects/rdg/en/latest/
           :type: url
-          :text: Salesforce Login Discovery Page 
+          :text: Salesforce Login Discovery Page
+          :tooltip:
+          :classes: btn-link stretched-link font-weight-bold
+
+    ---
+
+      .. link-button:: https://safenet.readthedocs.io/projects/sfdc-jit/en/latest/
+          :type: url
+          :text: Salesforce Just-in-Time (JIT) User Provisioning with SafeNet Trusted Access
           :tooltip:
           :classes: btn-link stretched-link font-weight-bold
 
