@@ -59,6 +59,21 @@ SafeNet Trusted Access Documentation
         :classes: btn-link stretched-link font-weight-bold
 
 
+.. dropdown:: SafeNet Trusted Access Integrations
+  :container: + shadow
+  :title: text-center font-weight-bold
+  :animate: fade-in
+
+
+  .. panels::
+
+
+      .. link-button:: https://safenet.readthedocs.io/projects/rdg/en/latest/
+          :type: url
+          :text: Salesforce Login Discovery Page 
+          :tooltip:
+          :classes: btn-link stretched-link font-weight-bold
+
 
 .. dropdown:: Remote Desktop Services
   :container: + shadow
