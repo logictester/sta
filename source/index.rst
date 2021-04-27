@@ -68,7 +68,7 @@ SafeNet Trusted Access Documentation
   .. panels::
 
 
-      .. link-button:: https://safenet.readthedocs.io/projects/rdg/en/latest/
+      .. link-button:: https://safenet.readthedocs.io/projects/sfdc-login/en/latest/
           :type: url
           :text: Salesforce Login Discovery Page
           :tooltip:
