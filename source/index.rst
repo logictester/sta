@@ -82,6 +82,14 @@ SafeNet Trusted Access Documentation
           :tooltip:
           :classes: btn-link stretched-link font-weight-bold
 
+    ---
+
+      .. link-button:: https://safenet.readthedocs.io/projects/fortigate/en/latest/
+          :type: url
+          :text: FortiGate VPN and FortiClient with SafeNet Trusted Access using SAML 2.0
+          :tooltip:
+          :classes: btn-link stretched-link font-weight-bold
+
 
 .. dropdown:: Remote Desktop Services
   :container: + shadow
