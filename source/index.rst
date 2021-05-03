@@ -37,7 +37,7 @@ SafeNet Trusted Access Documentation
          :classes: btn-link stretched-link font-weight-bold
 
 
-.. dropdown:: Microsft Office 365 and Azure Active Directory
+.. dropdown:: Microsoft Office 365 and Azure Active Directory
   :container: + shadow
   :title: text-center font-weight-bold
   :animate: fade-in
