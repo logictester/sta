@@ -90,6 +90,13 @@ SafeNet Trusted Access Documentation
           :tooltip:
           :classes: btn-link stretched-link font-weight-bold
 
+    ---
+
+      .. link-button:: https://safenet.readthedocs.io/projects/cisco/en/latest/
+          :type: url
+          :text: Cisco ASA SSL VPN and Cisco AnyConnect Client with SafeNet Trusted Access using SAML 2.0
+          :tooltip:
+          :classes: btn-link stretched-link font-weight-bold
 
 .. dropdown:: Remote Desktop Services
   :container: + shadow
