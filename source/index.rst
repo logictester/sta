@@ -112,3 +112,18 @@ SafeNet Trusted Access Documentation
           :text: Protecting Enterprise Remote Desktop Services with SafeNet Trusted Access
           :tooltip:
           :classes: btn-link stretched-link font-weight-bold
+
+.. dropdown:: SafeNet Authenticators
+  :container: + shadow
+  :title: text-center font-weight-bold
+  :animate: fade-in
+
+
+  .. panels::
+
+
+      .. link-button:: https://safenet.readthedocs.io/projects/rdg/en/latest/
+          :type: url
+          :text: Protecting Enterprise Remote Desktop Services with SafeNet Trusted Access
+          :tooltip:
+          :classes: btn-link stretched-link font-weight-bold
