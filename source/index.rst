@@ -122,8 +122,8 @@ SafeNet Trusted Access Documentation
   .. panels::
 
 
-      .. link-button:: https://safenet.readthedocs.io/projects/rdg/en/latest/
+      .. link-button:: https://safenet.readthedocs.io/projects/oath/en/latest/
           :type: url
-          :text: Protecting Enterprise Remote Desktop Services with SafeNet Trusted Access
+          :text: Thales OTP (OATH) for 3rd party use
           :tooltip:
           :classes: btn-link stretched-link font-weight-bold
